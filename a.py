@@ -1,5 +1,5 @@
 print("Hello1")
-health = 120
+health = 5000
 print("Hello")
 print("Hello")
 print("Hello")
