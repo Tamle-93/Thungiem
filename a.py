@@ -1,11 +1,11 @@
-print("Hello")
+print("Hello1")
 health = 100
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
+print("Hello2")
+print("Hello3")
+print("Hello4")
+print("Hello5")
+print("Hello6")
+print("Hello7")
 
 def add():
     pass
@@ -13,13 +13,13 @@ def add():
 def b01():
     print("a")
 def a02():
-    pass
+    print("FUCK YOU")
 
 def c01():
     pass
 def a03():
     pass
-print("Hello")
+print("Hello10")
 
 def add():
     print("FUCK YOU")
@@ -32,8 +32,7 @@ def a01():
 def b01():
     print("a")
 def a02():
-    pass
-
+    print("FUCK YOU")
 def c01():
     pass
 def a03():
