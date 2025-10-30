@@ -6,7 +6,7 @@ def a01():
     pass
 
 def b01():
-    pass
+    print("a")
 def a02():
     pass
 
