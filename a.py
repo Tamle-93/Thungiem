@@ -1,7 +1,8 @@
 print("Hello")
 
-def add(a, b):
-    return a - b
+def add():
+    print("FUCK YOU")
+    
 def a01():
     pass
 
