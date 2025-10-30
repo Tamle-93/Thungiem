@@ -1,11 +1,7 @@
 print("Hello")
+health = 100
 
 def add():
-    print("FUCK YOU")
-    
-def add(a, b):
-    return a * b - c
-def a01():
     pass
 
 def b01():
