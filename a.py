@@ -7,3 +7,5 @@ def a01():
 
 def b01():
     pass
+def a02():
+    pass
