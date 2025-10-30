@@ -1,11 +1,11 @@
 print("Hello1")
 health = 100
-print("Hello2")
-print("Hello3")
-print("Hello4")
-print("Hello5")
-print("Hello6")
-print("Hello7")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
 
 def add():
     pass
