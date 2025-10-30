@@ -9,3 +9,6 @@ def b01():
     pass
 def a02():
     pass
+
+def c01():
+    pass
