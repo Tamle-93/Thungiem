@@ -1,7 +1,7 @@
 print("Hello")
 
 def add(a, b):
-    return a - b
+    return a * b - c
 def a01():
     pass
 
