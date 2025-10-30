@@ -1,10 +1,10 @@
-print("Hello")
+print("Hellofaf")
 health = 100
+print("Hello124141")
+print("Hell5125125o")
 print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
+print("He5125215llo")
+print("Hell125125125o")
 print("Hello")
 
 def add():
